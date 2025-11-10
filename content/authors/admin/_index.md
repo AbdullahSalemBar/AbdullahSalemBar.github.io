@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Abdullah Barayan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Abdullah
+last_name: Barayan
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
@@ -54,18 +54,8 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
   - area: MS Computer Science
-    institution: Carnegie Mellon University
+    institution: Cardiff University
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
@@ -74,7 +64,7 @@ education:
 
       Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
+    institution: King Abdulaziz University
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31
